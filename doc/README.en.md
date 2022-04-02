@@ -30,7 +30,7 @@
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/WATERHOUSE_-_Ulises_y_las_Sirenas_%28National_Gallery_of_Victoria%2C_Melbourne%2C_1891._%C3%93leo_sobre_lienzo%2C_100.6_x_202_cm%29.jpg/1280px-WATERHOUSE_-_Ulises_y_las_Sirenas_%28National_Gallery_of_Victoria%2C_Melbourne%2C_1891._%C3%93leo_sobre_lienzo%2C_100.6_x_202_cm%29.jpg" width=75%>
 </p>
 
-The application works with your self-control with the pre-commitment strategy; If the soul is like a baby, as Imam Al-Busairi -may God have mercy on him- said:
+Awb works with your self-control with the pre-commitment strategy; If the soul is like a baby, as Imam Al-Busairi -may God have mercy on him- said:
  
 The soul is like a baby, if you neglect it, it will grow in love with breastfeeding, and if you wean it, it will be weaned
 
