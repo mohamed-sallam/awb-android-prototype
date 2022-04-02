@@ -16,9 +16,11 @@
 *Read this in other languages: [العربية](README.md), [English](doc/README.en.md).*
 
 <p align="right">
+ 
 **تحذير: هذه نسخة تجريبية، لذا فمن الممكن أن تواجهك بعض المشاكل؛ فإذا واجهك إحداها، ارسلها لنا عن طريق قسم Issues على مستودعنا في جت هت.**
+
 </p>
-<p align="right">
+
  
 ## لقطات الشاشة
 
@@ -69,6 +71,6 @@
 
 ## الترخيص
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Mozilla_logo.svg" width=160 align="right">](https://www.mozilla.org/en-US/MPL/2.0/)
-
+<p align="right">
 أوب هو برمجية حرة، يمكنك استخدامها ودراستها ومشاركتها والتعديل عليها. ويمكنك عمل توزيعات منها أو تعديلها تبعًا لشروط رخصة [Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/) الإصدار الثاني والتي تم نشره من قبل مؤسسة موزيلا.
 </p>
