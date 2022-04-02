@@ -1,6 +1,6 @@
 <p align="center"><a href="https://mohamed-sallam.github.io"><img src="assets/logo.png" width="150"></a></p> 
 <h2 align="center"><b>أَوْب</b></h2>
-<h4 align="center">تطبيق أندرويد حر ومفتوح المصدر للأقلاع عن الإدمان الرقمي.</h4>
+<h4 align="center">تطبيق أندرويد حر ومفتوح المصدر للإقلاع عن الإدمان الرقمي.</h4>
 
 <p align="center"><a href="https://github.com/mohamed-sallam/awb-android/releases/"><img src="https://raw.githubusercontent.com/VishnuSanal/Quotes/master/Screenshots/get-it-on-github.svg" alt="حمّله من جت هب" height=80/></a></p>
 
@@ -50,7 +50,7 @@
 
 يمكنك تحميل ملف الـAPK من [إصدارات جت هب](https://github.com/mohamed-sallam/awb-android/releases/) ومن ثم تثبيته.
 
-ما يزال لا تتوفر نسخة على متجر جوجل بلاي أو F-Droid.
+لا تتوفر نسخة على متجر جوجل بلاي أو F-Droid حتى الآن.
 
 **ملاحظة: سيطلب منك التطبيق إذنين عند أول تشغيل له؛ لذا فيجب عليك تفعيلهما. وكذلك سيطلب منك آخر عند كل مرة تشغل فيها القفل، لذا فعله أيضًا.**
 
