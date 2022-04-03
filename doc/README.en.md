@@ -32,7 +32,7 @@
 
 Awb works with your self-control with the pre-commitment strategy; If the soul is like a baby, as Imam Al-Busairi -may God have mercy on him- said:
  
-> The soul is like a baby, if you neglect it, it will grow in love with breastfeeding, and if you wean it, it will be weaned
+> The soul is like a baby, if you neglect him, he will grow in love with breastfeeding, and if you wean him, he will be weaned
 
 One of the ways of weaning that baby is self-control by pre-commitment strategy, the most famous example of it is the story [Ulysses and the Sirens](https://en.wikipedia.org/wiki/Ulysses_and_the_Sirens_(Waterhouse)); Therefore, the application contracts with you a contract of self-control for a period that you specify and applications you choose, and upon the expiration of that period, you can use all the applications installed on your phone.
 
