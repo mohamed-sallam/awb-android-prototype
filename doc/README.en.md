@@ -34,7 +34,7 @@ Awb works with your self-control with the pre-commitment strategy; If the soul i
  
 > The soul is like a baby, if you neglect him, he will grow in love with breastfeeding, and if you wean him, he will be weaned
 
-One of the ways of weaning that baby is self-control by pre-commitment strategy, the most famous example of it is the story [Ulysses and the Sirens](https://en.wikipedia.org/wiki/Ulysses_and_the_Sirens_(Waterhouse)); Therefore, the application contracts with you a contract of self-control for a period that you specify and applications you choose, and upon the expiration of that period, you can use all the applications installed on your phone.
+Then one of the ways of weaning that baby is self-control by pre-commitment strategy, the most famous example of it is the story [Ulysses and the Sirens](https://en.wikipedia.org/wiki/Ulysses_and_the_Sirens_(Waterhouse)); Therefore, Awb contracts with you a contract of self-control for a period that you specify and applications you choose, and upon the expiration of that period, you can use all the applications installed on your phone Normally.
 
 ### Features
 
@@ -53,7 +53,7 @@ Download the APK from [GitHub Releases](https://github.com/mohamed-sallam/awb-an
 
 There is no version available on Google Play Store or F-Droid yet.
 
-**Note: The app will ask you for two permissions when you first launch it; So you must allow them. It will also ask you for another permission every time you turn the lock on, so allow that too.**
+**Note: Awb will ask you for two permissions when you first launch it, so you must allow them. It will also ask you for another permission every time you turn the lock on, so allow that too.**
 
 ## Contribution
 
@@ -74,4 +74,4 @@ Awb does not collect any data about you in any way with or without your consent.
 
 Awb is Free Software: You can use, study, share, and improve. Specifically you can redistribute and/or modify it under the terms of the version 2 of 
 [Mozilla Public License](https://www.mozilla.org/en-US/MPL/2.0/) as
-published by the Mozilla Foundation.
+published by Mozilla Foundation.
