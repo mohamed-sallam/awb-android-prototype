@@ -15,7 +15,9 @@
 
 *Read this in other languages: [العربية](../README.md), [English](README.en.md).*
 
-<b>WARNING: THIS IS A BETA VERSION, THEREFORE YOU MAY ENCOUNTER BUGS. IF YOU DO, OPEN AN ISSUE VIA OUR GITHUB REPOSITORY.</b>
+> **Warning**
+> 
+>THIS IS A BETA VERSION, THEREFORE YOU MAY ENCOUNTER BUGS. IF YOU DO, OPEN AN ISSUE VIA OUR GITHUB REPOSITORY.
 
 ## Screenshots
 
@@ -53,7 +55,9 @@ Download the APK from [GitHub Releases](https://github.com/mohamed-sallam/awb-an
 
 There is no version available on Google Play Store or F-Droid yet.
 
-**Note: Awb will ask you for two permissions when you first launch it, so you must allow them. It will also ask you for another permission every time you turn the lock on, so allow that too.**
+> **Note**
+> 
+>Awb will ask you for two permissions when you first launch it, so you must allow them. It will also ask you for another permission every time you turn the lock on, so allow that too.
 
 ## Contribution
 
